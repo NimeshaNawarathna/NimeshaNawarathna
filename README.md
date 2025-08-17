@@ -1,9 +1,16 @@
 # Hi 👋, I'm Nimesha Nawarathna
 
-🚀 BIT Student | Web & Software Developer Enthusiast  
-💻 Passionate about coding, problem-solving, and teamwork  
-🌱 Currently learning Spring Boot & Frontend Development  
-⚡ Fun fact: I love turning ideas into real projects!  
+🚀 BIT Student | Web & Software Developer Enthusiast
+
+💻 Passionate about coding, problem-solving & innovative solutions
+
+🎓 Completed NVQ 5 (ICT) – DTET & pursuing BIT (UCSC)
+
+🤝 Team player with strong collaboration and leadership skills
+
+🌍 Interested in building impactful digital solutions for real-world problems
+
+⚡ Fun fact: I love turning creative ideas into successful projects!
 
 ## 🔧 Technologies & Tools
 - HTML | CSS | JavaScript | PHP | Java | Spring Boot  
