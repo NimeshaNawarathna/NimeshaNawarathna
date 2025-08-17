@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nimesha  
+# Hi 👋, I'm Nimesha Nawarathna
 
 🚀 BIT Student | Web & Software Developer Enthusiast  
 💻 Passionate about coding, problem-solving, and teamwork  
@@ -10,9 +10,9 @@
 - MySQL | Git | GitHub  
 
 ## 📫 Connect with me
-[LinkedIn](www.linkedin.com/in/nimesha-nawarathna-467a0b325
+LinkedIn - www.linkedin.com/in/nimesha-nawarathna-467a0b325
 
-) | [Email](nimeshamadhushanisn543@gmail.com)
+Email - nimeshamadhushanisn543@gmail.com
 
 <!--
 **NimeshaNawarathna/NimeshaNawarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
