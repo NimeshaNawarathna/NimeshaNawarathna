@@ -12,9 +12,21 @@
 
 ⚡ Fun fact: I love turning creative ideas into successful projects!
 
-## 🔧 Technologies & Tools
-- HTML | CSS | JavaScript | PHP | Java | Spring Boot  
-- MySQL | Git | GitHub  
+
+## 🚀 Technologies & Tools  
+
+🌐 Frontend  
+HTML | CSS | JavaScript  
+
+⚙️ Backend  
+PHP | Java | Spring Boot  
+
+🗄️ Database  
+MySQL  
+
+🛠️ Tools  
+Git | GitHub | NetBeans | VS Code | Photoshop | Illustrator  
+
 
 ## 📫 Connect with me
 LinkedIn - www.linkedin.com/in/nimesha-nawarathna-467a0b325
